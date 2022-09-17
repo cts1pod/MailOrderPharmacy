@@ -1,9 +1,6 @@
 insert into user (userid,upassword,uname) values ('admin','admin','admin');
 insert into user (userid,upassword,uname) values ('anagha','anagha','anagha');
-insert into user (userid,upassword,uname) values ('admin1','admin1','admin1');
-insert into user (userid,upassword,uname) values ('admin2','admin2','admin2');
-insert into user (userid,upassword,uname) values ('admin3','admin3','admin3');
-insert into user (userid,upassword,uname) values ('user1','user1','user1');
-insert into user (userid,upassword,uname) values ('user2','user2','user2');
-insert into user (userid,upassword,uname) values ('user3','user3','user3');
-insert into user (userid,upassword,uname) values ('guru','guru','guru');
+insert into user (userid,upassword,uname) values ('deepthi','deepthi','deepthi');
+insert into user (userid,upassword,uname) values ('hrishikesh','hrishikesh','hrishikesh');
+insert into user (userid,upassword,uname) values ('avinash','avinash','avinash');
+insert into user (userid,upassword,uname) values ('user','user','user');
